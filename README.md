@@ -51,8 +51,4 @@ javac poo/cine/UsoSalaCine.java
 # Ejemplo de ejecución
 java poo.cine.UsoSalaCine
 
-```
 
-```
-
-```
